@@ -1,4 +1,4 @@
-## Hi, I'm Hafsa
+## Hi, I'm Hafsah
 
 I'm an economics-trained analyst based in Columbus, Ohio. Most of my work so far has been research: pulling together datasets, running regressions, and writing up what the results actually mean. I'm looking to bring that into data analysis, financial analysis and research roles.
 
