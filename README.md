@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Hafsa Al Hassan 👋
 
-<!--
-**hafsahalhassan344-ops/hafsahalhassan344-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **data, financial and economic research analyst** based in **Columbus, Ohio**. I like taking messy real-world data, testing ideas rigorously, and explaining what the numbers mean for decisions.
 
-Here are some ideas to get you started:
+### What I work on
+- **Data analysis**: cleaning, reshaping and summarizing data to answer business and policy questions
+- **Financial analysis & forecasting**: time-series models, forecast evaluation, exchange rates
+- **Economic research**: econometrics, hypothesis testing, panel data and household survey analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+`R` (tidyverse) · `Stata` · `SQL` · `Python` · `Power BI` · `Excel`
+
+### Featured project
+**[Forecasting Exchange Rates with AI](https://github.com/hafsahalhassan344-ops/exchange-rate-forecasting-ai)** (R)
+Can Microsoft Copilot and Google Gemini forecast exchange rates better than simple statistical models? I collected real-time forecasts for five currencies over six horizons and tested them against random-walk and AR(1) benchmarks using AFE, RMSPE, directional accuracy, Diebold-Mariano-West tests and panel regressions.
+
+### Let's connect
+[LinkedIn](https://www.linkedin.com/in/hafsahalhassan)
