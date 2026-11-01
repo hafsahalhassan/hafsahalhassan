@@ -4,7 +4,7 @@ I have an MA in Applied Economics from Ohio University. Most of my work so far h
 
 ### What I've been working on
 
-**[Can AI forecast exchange rates?](https://github.com/hafsahalhassan344-ops/exchange-rate-forecasting-ai)**
+**[Can AI forecast exchange rates?](https://github.com/hafsahalhassan/exchange-rate-forecasting-ai)**
 For a forecasting course in my master's program, I spent a week collecting daily exchange-rate forecasts from Copilot and Gemini for five currencies, then tested them in R against a random walk and an AR(1) model. The short version: giving the AI the previous day's closing rate helped a lot, but neither tool beat the simple models.
 
 **Mobile money and household welfare**
